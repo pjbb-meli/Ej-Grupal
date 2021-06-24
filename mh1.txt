@@ -1,8 +1,5 @@
 Archivo 1 MH
-<<<<<<< HEAD
 Esto lo estoy editando pb
 Y otro más por si el caso
 Y otra por si las dudas
-=======
 Ahora debe dar conflicto
->>>>>>> df6004e8bab0c768fb6bd95ca4c90021674ce029
